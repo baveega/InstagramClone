@@ -2,7 +2,7 @@
 
 Instagram clone - web frontend 
 
-Output - https://instagram-clone-dun.vercel.app/
+Output - https://instagram-clone-baveega.vercel.app/
 
 ## Project setup
 ```
