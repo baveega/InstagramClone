@@ -23,6 +23,7 @@ export default {
 <style lang="scss" scoped>
 .home {
   &__center {
+    width: 98.5%;
     margin-bottom: 30px;
   }
 

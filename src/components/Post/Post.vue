@@ -9,28 +9,6 @@
       <button class="post__options-menu" data-toggle="modal" data-target="#exampleModalCenter">
         <span class="dots">●●●</span>
       </button>
-
-      <div
-        class="modal fade"
-        id="exampleModalCenter"
-        tabindex="-1"
-        role="dialog"
-        aria-labelledby="exampleModalCenterTitle"
-        aria-hidden="true"
-      >
-        <div class="modal-dialog modal-dialog-centered" role="document">
-          <div class="modal-content">
-            <div class="modal-body">
-              <button class="post-modal-choice danger-choice">Report Inappropriate</button>
-              <button class="post-modal-choice danger-choice">Unfollow</button>
-              <button class="post-modal-choice">Go to post</button>
-              <button class="post-modal-choice lst-choice" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">Cancel</span>
-              </button>
-            </div>
-          </div>
-        </div>
-      </div>
     </div>
 
     <div class="main-img">

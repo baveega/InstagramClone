@@ -20,7 +20,7 @@
           <input
             class="custom-nav__search"
             type="search"
-            placeholder="Search Instagram ... "
+            placeholder="🔍 Search Instagram  "
             aria-label="Search"
           />
         </form>
