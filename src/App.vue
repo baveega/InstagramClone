@@ -25,7 +25,7 @@ export default {
 
 <style lang="scss">
 body {
-  background-color: white-smoke;
+  background-color: #F5F5F5;
 }
 
 .main {
